@@ -1,2 +1,2 @@
 # Redux Async Example
-A basic example about the async usage of Redux along with Redux-Thunk
+This is an example of the usage of Redux + Redux Thunk + React. This app displays a couple of posts with a subreddit given.
